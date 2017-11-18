@@ -1,0 +1,24 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "bs3",
+			"selector": "text.html"
+		}
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"ESLint",
+		"Golang Tools Integration",
+		"Vintage"
+	],
+	"saveOnBuild": false,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

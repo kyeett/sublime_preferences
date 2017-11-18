@@ -1,0 +1,11 @@
+{
+    "cmd": ["mcs","$file"],
+    "selector": "Program.cs",
+    "variants": [
+
+        { "name": "Run",
+          "cmd": ["mono", "${file_base_name}.exe"]
+        }
+    ]
+}
+

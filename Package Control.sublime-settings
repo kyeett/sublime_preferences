@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Babel",
+		"Bootstrap 3 Snippets",
+		"C# Compile & Run",
+		"Deselect",
+		"Docker Based Build Systems",
+		"Dockerfile Syntax Highlighting",
+		"Erl-AutoCompletion",
+		"Erlyman",
+		"ESLint",
+		"Fix Mac Path",
+		"Flask Completions",
+		"Git",
+		"Github Tools",
+		"Golang Build",
+		"Golang Tools Integration",
+		"GoSublime",
+		"Jinja2",
+		"jQuery Snippets pack",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Mermaid",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeOnSaveBuild",
+		"Terminal",
+		"Theme - Afterglow"
+	]
+}

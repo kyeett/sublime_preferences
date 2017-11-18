@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["ctrl+,"], "command": "run_macro_file", "args": {"file": "res://Packages/User/semi-colon.sublime-macro"}
+    },
+    {
+        "keys": ["escape"], "command": "deselect", "context":
+      [
+          { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+      ]
+    }
+]

@@ -1,0 +1,6 @@
+<snippet>
+   <content><![CDATA[\$(this).${1:}$SELECTION${0}]]></content>
+    <tabTrigger>qt</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
